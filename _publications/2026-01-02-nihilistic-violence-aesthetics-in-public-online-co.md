@@ -1,6 +1,7 @@
 ---
 title: "Nihilistic Violence Aesthetics in Public Online Communication: A Theoretical Framework for Interpreting Hybridized Violent Signaling"
 collection: publications
+category: scholarly
 permalink: /publication/2026-01-02-nihilistic-violence-aesthetics-in-public-online-co
 excerpt: 'Manuscript under review'
 date: 2026-01-02

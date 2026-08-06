@@ -1,6 +1,7 @@
 ---
 title: "Identifying Symbolic Modeling of Grooming Precursors in Social Media"
 collection: publications
+category: scholarly
 permalink: /publication/2026-01-10-identifying-symbolic-modeling-of-grooming-precurso
 excerpt: 'Manuscript under review'
 date: 2026-01-10

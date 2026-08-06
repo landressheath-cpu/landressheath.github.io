@@ -1,6 +1,7 @@
 ---
 title: "Child Protective Services Workers' Decision Making and Risk Management"
 collection: publications
+category: scholarly
 permalink: /publication/2024-01-01-child-protective-services-workers-decision-making-
 excerpt: 'Dissertation (ScholarWorks)'
 date: 2024-01-01

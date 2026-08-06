@@ -1,6 +1,7 @@
 ---
 title: "The SAFE Milieu Framework: A Conceptual Architecture for Trauma-Informed Administration in Specialized Residential Care"
 collection: publications
+category: scholarly
 permalink: /publication/2026-01-06-the-safe-milieu-framework-a-conceptual-architectur
 excerpt: 'Manuscript under review'
 date: 2026-01-06
