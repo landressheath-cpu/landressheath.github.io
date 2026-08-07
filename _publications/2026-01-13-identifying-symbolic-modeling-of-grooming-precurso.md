@@ -7,6 +7,7 @@ excerpt: 'White Paper'
 date: 2026-01-13
 venue: 'Zenodo'
 paperurl: 'https://doi.org/10.5281/zenodo.21513869'
+link: 'https://doi.org/10.5281/zenodo.21513869'
 citation: 'Landress, H. N. (2026). Identifying Symbolic Modeling of Grooming Precursors in Social Media (Version 1). Zenodo. https://doi.org/10.5281/zenodo.21513869'
 ---
 

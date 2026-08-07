@@ -146,6 +146,7 @@ for i, p in enumerate(pubs):
     content += f"venue: '{p['venue']}'\n"
     if p['url']:
         content += f"paperurl: '{p['url']}'\n"
+        content += f"link: '{p['url']}'\n"
     
     cit = p['citation'].replace('"', '&quot;')
     content += f"citation: '{cit}'\n"
